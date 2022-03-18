@@ -1,6 +1,6 @@
 ## Try it
 
-[https://my-json-server.typicode.com/typicode/demo](https://my-json-server.typicode.com/typicode/demo)
+[JSON Placeholder](https://github.com/BrunoDegan/demo/blob/master/db.json)
 
 ## Use your own data
 
