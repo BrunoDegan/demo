@@ -43,15 +43,15 @@
         "imagePath": "assets/flutterando_screen/flutter.png"
       },
       {
-        "title": "Flutter",
+        "title": "Python",
         "imagePath": "assets/flutterando_screen/python.png"
       },
       {
-        "title": "Flutter",
+        "title": "Kotlin",
         "imagePath": "assets/flutterando_screen/kotlin.png"
       },
       {
-        "title": "Flutter",
+        "title": "Java",
         "imagePath": "assets/flutterando_screen/java.png"
       }
     ]
