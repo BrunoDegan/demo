@@ -1,6 +1,6 @@
 {
   "about": {
-    "userImagePath": "assets/flutterando_screen/profile_image.jpeg",
+    "userImagePath": "profile_image.jpeg",
     "userName": "Bruno Degan",
     "description": "Duis rhoncus dui venenatis consequat porttitor. Etiam aliquet congue consequat. In posuere, nunc sit amet laoreet blandit, urna sapien.",
     "skills": [
@@ -40,19 +40,19 @@
     "favorites": [
       {
         "title": "Flutter",
-        "imagePath": "assets/flutterando_screen/flutter.png"
+        "imagePath": "flutter.png"
       },
       {
         "title": "Python",
-        "imagePath": "assets/flutterando_screen/python.png"
+        "imagePath": "python.png"
       },
       {
         "title": "Kotlin",
-        "imagePath": "assets/flutterando_screen/kotlin.png"
+        "imagePath": "kotlin.png"
       },
       {
         "title": "Java",
-        "imagePath": "assets/flutterando_screen/java.png"
+        "imagePath": "java.png"
       }
     ]
   }
