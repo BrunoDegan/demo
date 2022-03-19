@@ -58,7 +58,6 @@
         "title": "Flutter",
         "imagePath": "assets/flutterando_screen/flutter.png"
       },
-      
       {
         "title": "Python",
         "imagePath": "assets/flutterando_screen/python.png"
@@ -66,7 +65,7 @@
       {
         "title": "Kotlin",
         "imagePath": "assets/flutterando_screen/kotlin.png"
-      },
+      }
     ]
   }
 }
